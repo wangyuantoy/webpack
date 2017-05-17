@@ -40,6 +40,7 @@ module.exports = {
         contentBase: './public', // 本地服务器加载页面所在的目录
         colors: true, //终端输出结果为彩色
         historyApiFallback: true, //不跳转
-        inline: true//实时刷新
+        inline: true,//实时刷新
+        progress:true // 打包时显示进度
     }
 };

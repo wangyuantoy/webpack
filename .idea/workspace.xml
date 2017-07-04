@@ -2,9 +2,118 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e84802cf-f759-4aaf-93b9-8c72daf2bc61" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/brace-expansion/node_modules/balanced-match/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/brace-expansion/node_modules/balanced-match/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/brace-expansion/node_modules/balanced-match/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/brace-expansion/node_modules/balanced-match/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/brace-expansion/node_modules/balanced-match/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/node_modules/ms/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/node_modules/ms/license.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/node_modules/ms/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/node_modules/ms/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jsesc/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ms/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ms/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ms/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/send/node_modules/ms/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/send/node_modules/ms/license.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/send/node_modules/ms/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/send/node_modules/ms/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve-index/node_modules/debug/.coveralls.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve-index/node_modules/debug/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve-index/node_modules/debug/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve-index/node_modules/debug/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve-index/node_modules/debug/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve-index/node_modules/debug/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve-index/node_modules/debug/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve-index/node_modules/debug/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve-index/node_modules/debug/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve-index/node_modules/debug/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve-index/node_modules/debug/node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve-index/node_modules/debug/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve-index/node_modules/debug/src/browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve-index/node_modules/debug/src/debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve-index/node_modules/debug/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve-index/node_modules/debug/src/node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve-index/node_modules/ms/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve-index/node_modules/ms/license.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve-index/node_modules/ms/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve-index/node_modules/ms/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy-transport/node_modules/debug/.coveralls.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy-transport/node_modules/debug/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy-transport/node_modules/debug/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy-transport/node_modules/debug/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy-transport/node_modules/debug/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy-transport/node_modules/debug/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy-transport/node_modules/debug/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy-transport/node_modules/debug/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy-transport/node_modules/debug/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy-transport/node_modules/debug/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy-transport/node_modules/debug/node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy-transport/node_modules/debug/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy-transport/node_modules/debug/src/browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy-transport/node_modules/debug/src/debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy-transport/node_modules/debug/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy-transport/node_modules/debug/src/node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy-transport/node_modules/ms/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy-transport/node_modules/ms/license.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy-transport/node_modules/ms/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy-transport/node_modules/ms/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy/node_modules/debug/.coveralls.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy/node_modules/debug/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy/node_modules/debug/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy/node_modules/debug/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy/node_modules/debug/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy/node_modules/debug/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy/node_modules/debug/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy/node_modules/debug/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy/node_modules/debug/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy/node_modules/debug/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy/node_modules/debug/node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy/node_modules/debug/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy/node_modules/debug/src/browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy/node_modules/debug/src/debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy/node_modules/debug/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy/node_modules/debug/src/node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy/node_modules/ms/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy/node_modules/ms/license.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy/node_modules/ms/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/spdy/node_modules/ms/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/npm-debug.log" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/index.html" afterPath="$PROJECT_DIR$/dist/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/styles.css" afterPath="$PROJECT_DIR$/dist/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/autoprefixer/node_modules/.bin/browserslist" afterPath="$PROJECT_DIR$/node_modules/autoprefixer/node_modules/.bin/browserslist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/autoprefixer/node_modules/.bin/browserslist.cmd" afterPath="$PROJECT_DIR$/node_modules/autoprefixer/node_modules/.bin/browserslist.cmd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/balanced-match/index.js" afterPath="$PROJECT_DIR$/node_modules/balanced-match/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/balanced-match/package.json" afterPath="$PROJECT_DIR$/node_modules/balanced-match/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserslist/CHANGELOG.md" afterPath="$PROJECT_DIR$/node_modules/browserslist/CHANGELOG.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserslist/README.md" afterPath="$PROJECT_DIR$/node_modules/browserslist/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserslist/cli.js" afterPath="$PROJECT_DIR$/node_modules/browserslist/cli.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserslist/index.js" afterPath="$PROJECT_DIR$/node_modules/browserslist/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserslist/package.json" afterPath="$PROJECT_DIR$/node_modules/browserslist/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-api/node_modules/.bin/browserslist" afterPath="$PROJECT_DIR$/node_modules/caniuse-api/node_modules/.bin/browserslist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/caniuse-api/node_modules/.bin/browserslist.cmd" afterPath="$PROJECT_DIR$/node_modules/caniuse-api/node_modules/.bin/browserslist.cmd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/debug/CHANGELOG.md" afterPath="$PROJECT_DIR$/node_modules/debug/CHANGELOG.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/debug/component.json" afterPath="$PROJECT_DIR$/node_modules/debug/component.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/debug/package.json" afterPath="$PROJECT_DIR$/node_modules/debug/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/debug/src/browser.js" afterPath="$PROJECT_DIR$/node_modules/debug/src/browser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jsesc/LICENSE-MIT.txt" afterPath="$PROJECT_DIR$/node_modules/jsesc/LICENSE-MIT.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jsesc/bin/jsesc" afterPath="$PROJECT_DIR$/node_modules/jsesc/bin/jsesc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jsesc/jsesc.js" afterPath="$PROJECT_DIR$/node_modules/jsesc/jsesc.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jsesc/man/jsesc.1" afterPath="$PROJECT_DIR$/node_modules/jsesc/man/jsesc.1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jsesc/package.json" afterPath="$PROJECT_DIR$/node_modules/jsesc/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/ms/README.md" afterPath="$PROJECT_DIR$/node_modules/ms/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/ms/index.js" afterPath="$PROJECT_DIR$/node_modules/ms/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/ms/package.json" afterPath="$PROJECT_DIR$/node_modules/ms/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/postcss-merge-rules/node_modules/.bin/browserslist" afterPath="$PROJECT_DIR$/node_modules/postcss-merge-rules/node_modules/.bin/browserslist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/postcss-merge-rules/node_modules/.bin/browserslist.cmd" afterPath="$PROJECT_DIR$/node_modules/postcss-merge-rules/node_modules/.bin/browserslist.cmd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regjsparser/node_modules/.bin/jsesc" afterPath="$PROJECT_DIR$/node_modules/regjsparser/node_modules/.bin/jsesc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/regjsparser/node_modules/.bin/jsesc.cmd" afterPath="$PROJECT_DIR$/node_modules/regjsparser/node_modules/.bin/jsesc.cmd" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack.config.js" afterPath="$PROJECT_DIR$/webpack.config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yarn.lock" afterPath="$PROJECT_DIR$/yarn.lock" />
     </list>
     <ignored path="webpack.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,11 +134,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webpack.config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="29" column="58" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+            <state relative-caret-position="632">
+              <caret line="32" column="3" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.dev.config.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/webpack.dev.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -38,8 +157,18 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+            <state relative-caret-position="360">
+              <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="7" column="86" selection-start-line="7" selection-start-column="86" selection-end-line="7" selection-end-column="86" />
               <folding />
             </state>
           </provider>
@@ -58,8 +187,18 @@
       <file leaf-file-name="bundle.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dist/bundle.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-410">
-              <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+            <state relative-caret-position="-306">
+              <caret line="76" column="135" selection-start-line="76" selection-start-column="135" selection-end-line="76" selection-end-column="135" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".babelrc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.babelrc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -70,16 +209,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".babelrc" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.babelrc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -122,11 +251,12 @@
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/dist/bundle.js" />
         <option value="$PROJECT_DIR$/dist/index.html" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/lib.js" />
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/src/css.css" />
         <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/webpack.dev.config.js" />
       </list>
     </option>
   </component>
@@ -195,70 +325,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webpack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webpack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webpack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webpack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="style-loader" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webpack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webpack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css-hot-loader" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webpack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webpack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="dist" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -280,6 +346,11 @@
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\webpack" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -363,33 +434,35 @@
       <workItem from="1497339844749" duration="4026000" />
       <workItem from="1497405401398" duration="2605000" />
       <workItem from="1498637913352" duration="3711000" />
-      <workItem from="1498700554549" duration="13791000" />
+      <workItem from="1498700554549" duration="15208000" />
+      <workItem from="1498784373386" duration="2258000" />
+      <workItem from="1499135871550" duration="8012000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50685000" />
+    <option name="totallyTimeSpent" value="62372000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23504274" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16987179" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32792208" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30087528" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41684902" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32792208" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -410,14 +483,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/config.json" />
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -485,67 +550,15 @@
     <entry file="file://$PROJECT_DIR$/public/bundle.js" />
     <entry file="file://$PROJECT_DIR$/app/main.js" />
     <entry file="file://$PROJECT_DIR$/app/config.json" />
-    <entry file="file://$PROJECT_DIR$/.babelrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/11.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/55.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/11.js" />
+    <entry file="file://$PROJECT_DIR$/dist/55.html" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/dist/package.json" />
+    <entry file="file://$PROJECT_DIR$/src/index.js" />
     <entry file="file://$PROJECT_DIR$/npm-debug.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-740">
           <caret line="34" column="20" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -554,72 +567,16 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="330">
             <caret line="112" column="15" selection-start-line="112" selection-start-column="15" selection-end-line="112" selection-end-column="15" />
-            <folding>
-              <marker date="1498722278000" expanded="true" signature="4708:4849" placeholder="{&quot;entry&quot;: 'index.js'...}" />
-              <marker date="1498722278000" expanded="true" signature="4741:4809" placeholder="{&quot;filename&quot;: 'index_bundle.js'...}" />
-              <marker date="1498722278000" expanded="true" signature="4955:5103" placeholder="..." />
-              <marker date="1498722278000" expanded="true" signature="4964:5032" placeholder="..." />
-              <marker date="1498722278000" expanded="true" signature="5041:5095" placeholder="..." />
-              <marker date="1498722278000" expanded="true" signature="7337:7552" placeholder="{...}" />
-              <marker date="1498722278000" expanded="true" signature="7370:7438" placeholder="{...}" />
-              <marker date="1498722278000" expanded="true" signature="7451:7550" placeholder="[...]" />
-              <marker date="1498722278000" expanded="true" signature="7479:7545" placeholder="{&quot;title&quot;: 'My App'...}" />
-              <marker date="1498722278000" expanded="true" signature="8127:8442" placeholder="{...}" />
-              <marker date="1498722278000" expanded="true" signature="8160:8228" placeholder="{...}" />
-              <marker date="1498722278000" expanded="true" signature="8241:8440" placeholder="[...]" />
-              <marker date="1498722278000" expanded="true" signature="8330:8435" placeholder="{&quot;filename&quot;: 'test.html'...}" />
-              <marker date="1498722278000" expanded="true" signature="8808:8969" placeholder="[...]" />
-              <marker date="1498722278000" expanded="true" signature="8834:8966" placeholder="{&quot;title&quot;: 'Custom template'...}" />
-              <marker date="1498722278000" expanded="true" signature="9021:9198" placeholder="..." />
-              <marker date="1498722278000" expanded="true" signature="9030:9171" placeholder="..." />
-              <marker date="1498722278000" expanded="true" signature="9180:9190" placeholder="..." />
-              <marker date="1498722278000" expanded="true" signature="9410:9475" placeholder="{...}" />
-              <marker date="1498722278000" expanded="true" signature="9423:9473" placeholder="[...]" />
-              <marker date="1498722278000" expanded="true" signature="9486:9596" placeholder="[...]" />
-              <marker date="1498722278000" expanded="true" signature="9512:9593" placeholder="{&quot;title&quot;: 'Custom template using Handlebars'...}" />
-              <marker date="1498722278000" expanded="true" signature="11731:11785" placeholder="[...]" />
-              <marker date="1498722278000" expanded="true" signature="11757:11782" placeholder="{...}" />
-              <marker date="1498722278000" expanded="true" signature="11900:11968" placeholder="[...]" />
-              <marker date="1498722278000" expanded="true" signature="11926:11965" placeholder="{...}" />
-              <marker date="1498722278000" expanded="true" signature="12577:12623" placeholder="{...}" />
-              <marker date="1498722278000" expanded="true" signature="12671:13015" placeholder="{...}" />
-              <marker date="1498722278000" expanded="true" signature="12737:13010" placeholder="{...}" />
-              <marker date="1498722278000" expanded="true" signature="12910:13004" placeholder="{...}" />
-              <marker date="1498722278000" expanded="true" signature="13101:13134" placeholder="[...]" />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lib.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib.js" />
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/bundle.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-410">
-          <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -629,33 +586,44 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="-870">
             <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
-            <folding>
-              <marker date="1498017309000" expanded="true" signature="1033:1286" placeholder="{...}" />
-              <marker date="1498017309000" expanded="true" signature="1045:1225" placeholder="{...}" />
-              <marker date="1498017309000" expanded="true" signature="1058:1221" placeholder="[...]" />
-              <marker date="1498017309000" expanded="true" signature="1066:1215" placeholder="{&quot;test&quot;: /\.css$/...}" />
-              <marker date="1498017309000" expanded="true" signature="1131:1206" placeholder="{&quot;fallback&quot;: &quot;style-loader&quot;...}" />
-              <marker date="1498017309000" expanded="true" signature="1238:1284" placeholder="[...]" />
-              <marker date="1498017309000" expanded="true" signature="4211:4517" placeholder="{...}" />
-              <marker date="1498017309000" expanded="true" signature="4223:4465" placeholder="{...}" />
-              <marker date="1498017309000" expanded="true" signature="4236:4461" placeholder="[...]" />
-              <marker date="1498017309000" expanded="true" signature="4244:4345" placeholder="{&quot;test&quot;: /\.css$/...}" />
-              <marker date="1498017309000" expanded="true" signature="4353:4454" placeholder="{&quot;test&quot;: /\.less$/i...}" />
-              <marker date="1498017309000" expanded="true" signature="4478:4515" placeholder="[...]" />
-              <marker date="1498017309000" expanded="true" signature="4734:5203" placeholder="{...}" />
-              <marker date="1498017309000" expanded="true" signature="4746:5022" placeholder="{...}" />
-              <marker date="1498017309000" expanded="true" signature="4759:5018" placeholder="[...]" />
-              <marker date="1498017309000" expanded="true" signature="4767:5012" placeholder="{&quot;test&quot;: /\.scss$/...}" />
-              <marker date="1498017309000" expanded="true" signature="4833:5003" placeholder="{&quot;fallback&quot;: 'style-loader'...}" />
-              <marker date="1498017309000" expanded="true" signature="5035:5201" placeholder="[...]" />
-              <marker date="1498017309000" expanded="true" signature="5080:5197" placeholder="//..." />
-              <marker date="1498017309000" expanded="true" signature="5479:5498" placeholder="{...}" />
-              <marker date="1498017309000" expanded="true" signature="5509:5665" placeholder="[...]" />
-              <marker date="1498017309000" expanded="true" signature="5535:5662" placeholder="{&quot;allChunks&quot;: true...}" />
-              <marker date="1498017309000" expanded="true" signature="5565:5637" placeholder="{...}" />
-            </folding>
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/style-loader/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-9240">
+            <caret line="90" column="204" selection-start-line="90" selection-start-column="204" selection-end-line="90" selection-end-column="204" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/css-hot-loader/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-935">
+            <caret line="58" column="27" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="632">
+          <caret line="32" column="3" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="86" selection-start-line="7" selection-start-column="86" selection-end-line="7" selection-end-column="86" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -667,85 +635,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/style-loader/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-9240">
-            <caret line="90" column="204" selection-start-line="90" selection-start-column="204" selection-end-line="90" selection-end-column="204" />
-            <folding>
-              <marker date="1498017309000" expanded="true" signature="739:915" placeholder="{...}" />
-              <marker date="1498017309000" expanded="true" signature="751:913" placeholder="{...}" />
-              <marker date="1498017309000" expanded="true" signature="764:909" placeholder="[...]" />
-              <marker date="1498017309000" expanded="true" signature="772:903" placeholder="{&quot;test&quot;: /\.css$/...}" />
-              <marker date="1498017309000" expanded="true" signature="811:895" placeholder="[...]" />
-              <marker date="1498017309000" expanded="true" signature="1409:1590" placeholder="{...}" />
-              <marker date="1498017309000" expanded="true" signature="1421:1588" placeholder="{...}" />
-              <marker date="1498017309000" expanded="true" signature="1434:1584" placeholder="[...]" />
-              <marker date="1498017309000" expanded="true" signature="1442:1578" placeholder="{&quot;test&quot;: /\.css$/...}" />
-              <marker date="1498017309000" expanded="true" signature="1481:1570" placeholder="[...]" />
-              <marker date="1498017309000" expanded="true" signature="2429:2790" placeholder="{...}" />
-              <marker date="1498017309000" expanded="true" signature="2441:2787" placeholder="{...}" />
-              <marker date="1498017309000" expanded="true" signature="2454:2782" placeholder="[...]" />
-              <marker date="1498017309000" expanded="true" signature="2462:2595" placeholder="{&quot;test&quot;: /\.css$/...}" />
-              <marker date="1498017309000" expanded="true" signature="2501:2586" placeholder="[...]" />
-              <marker date="1498017309000" expanded="true" signature="2603:2775" placeholder="{&quot;test&quot;: /\.useable\.css$/...}" />
-              <marker date="1498017309000" expanded="true" signature="2651:2766" placeholder="[...]" />
-              <marker date="1498017309000" expanded="true" signature="2663:2719" placeholder="{&quot;loader&quot;: &quot;style-loader/useable&quot;...}" />
-              <marker date="1498017309000" expanded="true" signature="4408:4479" placeholder="{...}" />
-              <marker date="1498017309000" expanded="true" signature="4435:4477" placeholder="[...]" />
-              <marker date="1498017309000" expanded="true" signature="4518:4626" placeholder="{...}" />
-              <marker date="1498017309000" expanded="true" signature="4545:4624" placeholder="[...]" />
-              <marker date="1498017309000" expanded="true" signature="4982:5110" placeholder="{...}" />
-              <marker date="1498017309000" expanded="true" signature="5009:5108" placeholder="[...]" />
-              <marker date="1498017309000" expanded="true" signature="5251:5384" placeholder="{...}" />
-              <marker date="1498017309000" expanded="true" signature="5278:5382" placeholder="[...]" />
-              <marker date="1498017309000" expanded="true" signature="5817:5900" placeholder="{...}" />
-              <marker date="1498017309000" expanded="true" signature="5855:5898" placeholder="{...}" />
-              <marker date="1498017309000" expanded="true" signature="5961:6091" placeholder="{...}" />
-              <marker date="1498017309000" expanded="true" signature="6145:6230" placeholder="{...}" />
-              <marker date="1498017309000" expanded="true" signature="6183:6228" placeholder="{...}" />
-              <marker date="1498017309000" expanded="true" signature="6293:6503" placeholder="{...}" />
-              <marker date="1498017309000" expanded="true" signature="6406:6427" placeholder="{...}" />
-              <marker date="1498017309000" expanded="true" signature="6909:6974" placeholder="{...}" />
-              <marker date="1498017309000" expanded="true" signature="6947:6972" placeholder="{...}" />
-              <marker date="1498017309000" expanded="true" signature="7318:7399" placeholder="{...}" />
-              <marker date="1498017309000" expanded="true" signature="7356:7397" placeholder="{...}" />
-              <marker date="1498017309000" expanded="true" signature="7768:7833" placeholder="{...}" />
-              <marker date="1498017309000" expanded="true" signature="7806:7831" placeholder="{...}" />
-              <marker date="1498017309000" expanded="true" signature="7919:7984" placeholder="{...}" />
-              <marker date="1498017309000" expanded="true" signature="7957:7982" placeholder="{...}" />
-              <marker date="1498017309000" expanded="true" signature="8402:8500" placeholder="{...}" />
-              <marker date="1498017309000" expanded="true" signature="8440:8498" placeholder="{...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/dist/bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306">
+          <caret line="76" column="135" selection-start-line="76" selection-start-column="135" selection-end-line="76" selection-end-column="135" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/css-hot-loader/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-935">
-            <caret line="58" column="27" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="27" />
-            <folding>
-              <marker date="1498730232000" expanded="true" signature="1265:1479" placeholder="{...}" />
-              <marker date="1498730232000" expanded="true" signature="1280:1475" placeholder="[...]" />
-              <marker date="1498730232000" expanded="true" signature="1281:1474" placeholder="{&quot;test&quot;: /\.less$/...}" />
-              <marker date="1498730232000" expanded="true" signature="1321:1424" placeholder="[...]" />
-              <marker date="1498730232000" expanded="true" signature="1645:1834" placeholder="{...}" />
-              <marker date="1498730232000" expanded="true" signature="1656:1832" placeholder="[...]" />
-              <marker date="1498730232000" expanded="true" signature="1662:1827" placeholder="{&quot;test&quot;: /\.css$/...}" />
-              <marker date="1498730232000" expanded="true" signature="1749:1818" placeholder="{&quot;fallback&quot;: 'style-loader'...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="29" column="58" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.dev.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
           <folding />
         </state>
       </provider>

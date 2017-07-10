@@ -1,5 +1,6 @@
 {
   "presets": ["react", "es2015"],
+  // 对react进行配置，让react实现热替换
   "env": {
     "development": {
       "plugins": [["react-transform", {

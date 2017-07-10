@@ -4,18 +4,19 @@ const webpack = require('webpack');
 const path = require('path');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
+const OpenBrowserPlugin = require('open-browser-webpack-plugin');
 module.exports = {
-    devtool: 'eval-source-map', //配置生成Source Maps，选择合适的选项
+    devtool: 'cheap-source-map', //配置生成Source Maps，选择合适的选项
 
-    entry: [
-        // 为热替换(HMR)打包好代码
-        // only- 意味着只有成功更新运行代码才会执行热替换(HMR)
-        'webpack/hot/only-dev-server',
-        path.resolve(__dirname, './app.js')
-    ], //唯一入口文件
+    entry: {
+        bundle: path.resolve(__dirname, './app.js'),
+        // 引用的第三方库文件单独打包
+        vendor: ['react', 'react-dom']
+    }, //唯一入口文件
     output: {
         path: path.resolve(__dirname, 'dist'),
-        filename: 'bundle.js' //打包后输出的文件名
+        filename: '[name].js', //打包后输出的文件名
+        publicPath:'/'  //启动本地服务后的根目录
     },
     module: {
         rules: [
@@ -41,17 +42,22 @@ module.exports = {
     plugins: [
         new ExtractTextPlugin('styles.css'),  //css分离
         new HtmlWebpackPlugin(), // 在打包文件夹中自动生成index.html并引入JS、CSS
-        new webpack.HotModuleReplacementPlugin() //启用模块热替换
+        new webpack.HotModuleReplacementPlugin(), //启用模块热替换
+        new OpenBrowserPlugin({
+            url: 'http://localhost:5000' 
+        })
     ],
     resolve: {
         // 自动扩展文件后缀名
-        extensions: ['', '.js', '.json']
+        extensions: ['.js', '.json', '.jsx', '.css']
     },
     devServer: {
         port: 5000, //开发环境端口5000
-        hot: true, //告诉 dev-server 我们在使用 HMR
-        inline: true,
-        contentBase: path.resolve(__dirname, 'dist'),
+        historyApiFallback: true, //不跳转，在开发单页应用时非常有用，它依赖于HTML5 history API，如果设置为true，所有的跳转将指向index.html
+        //colors:true, //设置为true，使终端输出的文件为彩色的
+        hot: true, //使用热加载插件HotModuleReplacementPlugin
+        inline: true, //实时刷新
+        contentBase: path.resolve(__dirname, 'dist'), //静态资源目录
         publicPath: '/'
     }
 };
